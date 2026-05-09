@@ -5,3 +5,5 @@ numpy
 backtesting
 bokeh
 finance-datareader
+plotly
+lxml
